@@ -11,7 +11,7 @@ terraform {
 
 provider "aws" {
   region  = var.aws_region
-  profile = "default"
+  profile = "Srikanth-DE"
 }
 
 # Create security group for access to EC2 from your Anywhere
